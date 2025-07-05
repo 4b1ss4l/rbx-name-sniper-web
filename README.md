@@ -43,9 +43,9 @@ Visit the live application at: [Your Deployment URL]
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/4b1ss4l/rbxusersniper.git
-   cd rbxusersniper
-   \`\`\`
+   git clone https://github.com/4b1ss4l/rbxnamesniper.git
+   cd rbxnamesniper
+   ```
 
 2. **Install dependencies**
    ```bash
