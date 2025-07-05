@@ -42,7 +42,7 @@ Visit the live application at: [Your Deployment URL]
 ### Local Development
 
 1. **Clone the repository**
-   \`\`\`bash
+   ```bash
    git clone https://github.com/4b1ss4l/rbxusersniper.git
    cd rbxusersniper
    \`\`\`
