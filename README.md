@@ -1,4 +1,4 @@
-# 🎯 RBX Name Sniper
+# 🎯 [RBX Name Sniper](https://rbx-name-sniper-web.vercel.app/)
 
 A powerful and user-friendly tool for finding available Roblox usernames. Generate and check thousands of username combinations with various generation methods and real-time availability checking.
 
