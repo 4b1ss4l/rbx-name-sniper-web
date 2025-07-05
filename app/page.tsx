@@ -433,7 +433,7 @@ export default function RbxNameSniper() {
               <div className="flex flex-wrap gap-3 justify-center">
                 <Button asChild variant="default">
                   <a
-                    href="https://github.com/4b1ss4l/rbxusersniper"
+                    href="https://github.com/4b1ss4l/rbxnamesniper"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center"
@@ -444,7 +444,7 @@ export default function RbxNameSniper() {
                 </Button>
                 <Button asChild variant="outline">
                   <a
-                    href="https://www.roblox.com/catalog"
+                    href="https://www.roblox.com/pt/users/8643247344/inventory/#!/game-passes"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center"
