@@ -444,7 +444,7 @@ export default function RbxNameSniper() {
                 </Button>
                 <Button asChild variant="outline">
                   <a
-                    href="https://www.roblox.com/pt/users/8643247344/inventory/#!/game-passes"
+                    href="https://www.roblox.com/pt/users/8826285307/inventory/#!/game-passes"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center"
