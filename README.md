@@ -48,22 +48,22 @@ Visit the live application at: [Your Deployment URL]
    \`\`\`
 
 2. **Install dependencies**
-   \`\`\`bash
+   ```bash
    npm install
    # or
    yarn install
    # or
    pnpm install
-   \`\`\`
+   ```
 
 3. **Run the development server**
-   \`\`\`bash
+   ```bash
    npm run dev
    # or
    yarn dev
    # or
    pnpm dev
-   \`\`\`
+   ```
 
 4. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
@@ -112,7 +112,7 @@ Visit the live application at: [Your Deployment URL]
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 rbxusersniper/
 ├── app/
 │   ├── api/validate/route.ts    # Username validation API
@@ -125,27 +125,27 @@ rbxusersniper/
 ├── lib/
 │   └── utils.ts                 # Utility functions
 └── public/                      # Static assets
-\`\`\`
+```
 
 ## 🔧 API Reference
 
 ### Username Validation Endpoint
 
-\`\`\`
+```
 GET /api/validate?username=<name>&birthday=<yyyy-mm-dd>
-\`\`\`
+```
 
 **Parameters:**
 - `username`: The username to validate
 - `birthday`: User's birthday in YYYY-MM-DD format
 
 **Response:**
-\`\`\`json
+```json
 {
   "code": 0,        // 0 = available, 1 = taken, others = errors
   "message": "Username validation result"
 }
-\`\`\`
+```
 
 ## 🤝 Contributing
 
@@ -153,18 +153,18 @@ We welcome contributions! Here's how you can help:
 
 1. **Fork the repository**
 2. **Create a feature branch**
-   \`\`\`bash
+   ```bash
    git checkout -b feature/amazing-feature
-   \`\`\`
+   ```
 3. **Make your changes**
 4. **Commit your changes**
-   \`\`\`bash
+   ```bash
    git commit -m 'Add some amazing feature'
-   \`\`\`
+   ```
 5. **Push to the branch**
-   \`\`\`bash
+   ```bash
    git push origin feature/amazing-feature
-   \`\`\`
+   ```
 6. **Open a Pull Request**
 
 ### Development Guidelines
@@ -191,7 +191,7 @@ RBX Name Sniper is an unofficial tool and is not affiliated with, endorsed by, o
 ## 🙏 Support the Developer
 
 If this tool helped you find great usernames, consider supporting the development:
-
+- 💲 **Buy a gamepass** link on the website
 - ⭐ **Star this repository** on GitHub
 - 🐛 **Report bugs** and suggest features
 - 🔄 **Share** with friends who might find it useful
@@ -204,11 +204,4 @@ Your support helps keep this project free and continuously improved!
 **Made with ❤️ by [4b1ss4l](https://github.com/4b1ss4l)**
 
 *Happy username hunting! 🎯*
-\`\`\`
 
-Perfect! I've removed the "Buy Me A Coffee" button from the support section. Now the support section only shows:
-
-1. **Star on GitHub** - Helps with project visibility and shows appreciation
-2. **Visit Roblox Store** - The original Roblox link you wanted to keep
-
-The support section is now cleaner and focuses on the two main ways users can support you without any donation requests.
