@@ -177,7 +177,7 @@ We welcome contributions! Here's how you can help:
 ## 📝 License
 
 ⚠️ This project is under a custom restrictive license.  
-Please read [LICENSE.txt](./LICENSE.txt) for usage terms.
+Please read [LICENSE.txt](LICENSE) for usage terms.
 
 ## ⚠️ Disclaimer
 
